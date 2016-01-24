@@ -1,3 +1,3 @@
 git add -A
-git commit -m content_done
+git commit -m done_main_css
 git push
