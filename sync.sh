@@ -1,3 +1,3 @@
 git add -A
-git commit -m fit_625px_done
+git commit -m fit_425px_done
 git push
